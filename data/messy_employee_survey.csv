@@ -1,0 +1,201 @@
+employee_id,name,department,office_location,salary,years_experience,satisfaction_score,survey_date,comments
+1,Iris Brown,Engineering,New york,54128.58,,9,07-09-2023,Looking forward to new projects.
+2,Henry Davis,Finance,Seattle,118304.64,21,15,2023-06-28,Looking forward to new projects.
+3,RACHEL JOHNSON,Eng,Seattle,102964.27,23,2,2023-11-08,
+4,Maya Jones,MARKETING,new york,83869.0,4,3,2023-03-15,Management could improve communication.
+5,Karen Smith,Finance,CHI,"$87,122.30",20,8,11/15/2024,Management could improve communication.
+6,  Rachel Jones,Mktg,Work From Home,83009.63,31,-1,03/21/2023,Looking forward to new projects.
+7,Charlie Miller,H.R.,REMOTE,146963.23,,9,11/11/2024,Management could improve communication.
+8,alice Thomas,MARKETING,SEA,125006.03,19,9,03/12/2023,Would appreciate more remote flexibility.
+9,Tina Garcia,Finance,NYC,137265.8,3,10,2023-02-24,
+10,Eve Anderson,finance,CHI,100405.75,34,4,22-07-2024,Happy with my role.
+11,Diana Brown,FINANCE,Seattle,106772.42,4,1,2023-02-02,Great work environment.
+12,Paul Brown,Mktg,austin,127385.04,6,6,15-07-2024,Great work environment.
+13,Maya Thomas,Engineering,new york,65116.96,11,4,26-08-2023,Great work environment.
+14,Charlie Brown,Fin, New York ,67443.47,,7,2024-08-10,Looking forward to new projects.
+15,Eve Brown,Finance,SEA,"$122,252.40",3,9,01/17/2023,
+16,charlie Anderson,Eng,Remote,143867.59,2,7,07-05-2024,Looking forward to new projects.
+17,Maya Williams,MARKETING,"Austin, TX",78198.61,,10,02/18/2023,Would appreciate more remote flexibility.
+18,Charlie Brown,marketing,"Austin, TX",132543.22,33,,11/04/2024,Management could improve communication.
+19,Eve Jones,engineering,REMOTE,66377.72,31,1,2023-11-14,Great work environment.
+20,  Iris Williams,SALES, Chicago,"$103,895.22",9,6,07/05/2023,Happy with my role.
+21,Grace Anderson,Engineering,ATX,126912.21,9,4,03/14/2023,Management could improve communication.
+22,Henry Jones,SALES,Seattle,,12,8,05/27/2024,Management could improve communication.
+23,karen Jones,MARKETING,seattle,112355.58,34,1,06-05-2023,
+24,Diana Taylor,SALES,NYC,90821.36,12,7,26-09-2023,Looking forward to new projects.
+25,NATE JOHNSON,MARKETING,ATX,"$114,655.69",32,7,2024-07-23,Would appreciate more remote flexibility.
+26,  Maya Anderson,marketing,SEA,104756.05,19,7,2024-08-15,Looking forward to new projects.
+27,Frank Anderson,FINANCE,Seattle,130934.46,14,3,2023-01-08,Looking forward to new projects.
+28,Nate Anderson,Eng,seattle,"$86,963.55",6,4,2023-12-17,Great work environment.
+6,olivia Williams,MARKETING, New York ,109328.49,35,3,08/09/2024,
+30,Paul Anderson,sales,Remote,119922.21,34,0,07/23/2023,Looking forward to new projects.
+31,Nate Garcia,Eng,Seattle,66717.61,1,10,2024-08-01,Management could improve communication.
+32,  Rachel Thomas,Human Resources,seattle,68039.27,,7,05-08-2023,Would appreciate more remote flexibility.
+33,Sam Anderson,H.R.,remote,-136019.39,20,6,2024-07-09,Management could improve communication.
+34,Alice Thomas,ENGINEERING,Seattle,113265.13,1,4,10/05/2023,Great work environment.
+35,Grace Davis,ENGINEERING,remote,108618.73,10,2,19-05-2023,
+36,Grace Johnson,Human Resources,Seattle,118205.27,7,10,2023-06-18,Looking forward to new projects.
+37,karen Smith,Eng,Remote,90519.96,29,7,17-12-2023,Management could improve communication.
+38,olivia Miller,FINANCE,seattle,134429.88,28,8,2024-06-01,
+39,  Grace Garcia,MARKETING,seattle,137433.6,0,4,2023-04-24,Would appreciate more remote flexibility.
+40,  Paul Davis,Marketing,seattle,68267.62,23,9,24-07-2024,Happy with my role.
+15,Jack Jones,Human Resources,ATX,57553.25,11,8,19-12-2024,Would appreciate more remote flexibility.
+42,Jack Brown,ENGINEERING,Chicago,"$119,341.94",,,05-12-2024,
+43,Alice Taylor,H.R., New York ,80774.12,30,2,03-08-2024,Looking forward to new projects.
+44,EVE TAYLOR,Engineering,chicago,57437.41,14,7,10-08-2024,
+45,Tina Smith,SALES,Remote,144496.97,5,3,2023-03-01,Would appreciate more remote flexibility.
+46,Jack Smith,FINANCE,SEA,"$135,258.71",16,10,04-07-2023,Management could improve communication.
+47,Eve Johnson,MARKETING,ATX,91111.11,25,9,03-08-2024,Great work environment.
+48,Tina Jones,Human Resources,Austin,149955.1,2,3,2024-09-21,
+49,nate Anderson,Marketing,Work From Home,81535.91,10,8,13-11-2024,Great work environment.
+50,Iris Garcia,Eng,Austin,114054.34,12,10,11/15/2024,Management could improve communication.
+51,jack Davis,Fin,Chicago,48031.29,10,1,02/08/2024,Would appreciate more remote flexibility.
+52,Paul Thomas,ENGINEERING, Chicago,132646.01,35,4,2023-02-09,Happy with my role.
+53,  Alice Jones,Fin,austin,91887.48,34,6,08-12-2023,Happy with my role.
+54,Karen Thomas,H.R., New York ,148783.47,9,1,2023-09-19,
+55,Quinn Davis,Human Resources, New York ,136447.96,,5,2024-10-23,Looking forward to new projects.
+56,Maya Garcia,sales,Remote,109833.24,18,2,25-02-2024,Looking forward to new projects.
+57,Frank Thomas,Engineering,Seattle,"$79,059.34",27,9,10/22/2024,Management could improve communication.
+58,Maya Taylor,Eng,remote,69379.79,0,8,11/18/2024,Great work environment.
+59,JACK ANDERSON,SALES,REMOTE,92967.76,30,15,10-10-2024,Management could improve communication.
+60,alice Taylor,HR,"Austin, TX",132448.08,14,6,07-11-2023,Management could improve communication.
+61,  Bob Jones,Marketing,New york,"$83,310.43",20,3,26-03-2023,
+62,quinn Jones,sales,Work From Home,146575.33,7,2,28-04-2023,Looking forward to new projects.
+63,  Leo Johnson,HR,REMOTE,101340.09,16,6,2023-11-08,Great work environment.
+64,Tina Brown,Fin,ATX,"$113,170.14",,,02/04/2024,
+65,Olivia Garcia,Mktg,SEA,-122938.25,6,10,02-05-2024,Happy with my role.
+66,Henry Garcia,hr,SEA,139678.1,,2,02/22/2024,Looking forward to new projects.
+67,Bob Garcia,finance,New york,66546.59,13,4,26-03-2024,Great work environment.
+68,  Rachel Jones,Marketing,Chicago,58839.34,20,,05-01-2024,Happy with my role.
+69,  Paul Davis,eng,New york,56450.67,2,9,08/21/2024,Great work environment.
+70,Nate Anderson,H.R.,Seattle,139423.01,8,10,20-07-2024,Management could improve communication.
+71,  Nate Johnson,Finance,remote,90157.34,29,2,11-07-2024,Management could improve communication.
+72,charlie Johnson,Marketing,seattle,55139.27,35,,2024-11-04,Happy with my role.
+73,Jack Taylor,HR,New york,-98278.32,6,9,2024-02-25,Would appreciate more remote flexibility.
+74,Tina Taylor,HR,REMOTE,48040.08,21,3,2023-10-22,Great work environment.
+75,Quinn Brown,Eng,NYC,61527.97,5,3,02-10-2023,Great work environment.
+76,Paul Taylor,hr,Seattle,"$124,269.03",18,10,2024-09-22,Great work environment.
+77,Bob Smith,Human Resources,remote,125236.89,31,3,18-07-2023,Management could improve communication.
+78,charlie Miller,Finance,"Austin, TX",46967.86,27,7,02/13/2024,
+79,OLIVIA THOMAS,Marketing,Work From Home,133670.86,33,11,04/11/2024,Great work environment.
+80,QUINN BROWN,ENGINEERING,REMOTE,121374.81,15,11,03/20/2023,Looking forward to new projects.
+20,  Paul Davis,eng, Chicago,116519.02,20,6,2023-08-03,Happy with my role.
+82,Sam Smith,Sales,ATX,,18,-1,19-08-2024,
+83,Sam Anderson,eng,seattle,97643.57,21,2,08-01-2023,Happy with my role.
+84,Quinn Taylor,hr,REMOTE,85678.74,3,6,04-06-2023,Looking forward to new projects.
+85,Tina Williams,SALES,austin,141258.38,25,2,13-09-2024,Looking forward to new projects.
+86,Charlie Anderson,MARKETING,Remote,-83072.76,31,3,02/10/2023,Would appreciate more remote flexibility.
+87,Bob Anderson,finance,Work From Home,-61196.54,10,1,22-06-2024,Management could improve communication.
+88,  Jack Thomas,Human Resources,remote,77494.13,12,10,2024-08-25,Looking forward to new projects.
+89,nate Williams,finance,REMOTE,50478.88,6,9,05/03/2023,Management could improve communication.
+90,NATE JOHNSON,finance, Chicago,137886.13,25,4,02/12/2024,Great work environment.
+91,Eve Williams,Eng,austin,124678.32,5,,18-03-2023,Looking forward to new projects.
+92,Jack Brown,HR,new york,89081.68,7,8,17-11-2023,Management could improve communication.
+93,Nate Smith,marketing,"Austin, TX",64667.96,23,-1,02-08-2024,Happy with my role.
+94,  Alice Garcia,sales,austin,121958.81,21,6,06-11-2024,Would appreciate more remote flexibility.
+95,  Eve Johnson,H.R.,Chicago,,2,5,2024-09-16,Great work environment.
+96,leo Smith,MARKETING,ATX,58069.88,28,7,16-03-2024,Would appreciate more remote flexibility.
+4,Charlie Thomas,Fin,austin,102274.81,18,10,2024-03-23,Happy with my role.
+98,Tina Miller,Engineering,Austin,115474.31,10,3,01/05/2024,Management could improve communication.
+99,Maya Taylor,Sales,"Austin, TX",144626.47,8,7,11/09/2024,
+100,Paul Wilson,eng,Chicago,72486.55,18,8,02/05/2023,Would appreciate more remote flexibility.
+101,Karen Anderson,HR,New york,101927.99,11,9,02/07/2023,Management could improve communication.
+102,Leo Wilson,H.R.,New york,58625.98,,8,27-07-2024,Great work environment.
+103,Olivia Davis,sales,new york,137185.82,11,3,09/28/2024,
+104,Jack Williams,finance,CHI,144485.73,5,9,2024-03-21,Looking forward to new projects.
+105,FRANK TAYLOR,engineering,remote,114166.95,2,1,21-01-2023,Management could improve communication.
+106,Nate Taylor,Mktg,REMOTE,112400.27,25,2,2023-03-15,Would appreciate more remote flexibility.
+107,Tina Williams,MARKETING,ATX,"$147,414.28",35,0,2024-02-09,Management could improve communication.
+108,jack Miller,Eng,new york,146082.01,20,3,2024-09-15,
+109,Charlie Miller,Human Resources,new york,,30,1,2023-07-05,Looking forward to new projects.
+110,Bob Miller,Human Resources,ATX,"$103,088.41",35,10,2023-03-04,Happy with my role.
+111,Leo Williams,SALES,Work From Home,,21,9,20-03-2024,Great work environment.
+112,FRANK MILLER,FINANCE,ATX,98268.07,19,1,06/22/2024,
+113,Alice Taylor,finance,Austin,-106269.94,24,4,10/23/2023,Management could improve communication.
+114,Nate Williams,Human Resources,"Austin, TX",97691.05,3,9,11-09-2023,Would appreciate more remote flexibility.
+115,FRANK DAVIS,hr,ATX,115966.2,16,4,2023-05-18,Management could improve communication.
+116,  Grace Thomas,sales,"Austin, TX",81624.33,17,10,2024-07-27,
+117,BOB JONES,Marketing,ATX,142021.01,13,9,2024-09-23,Great work environment.
+118,Henry Brown,finance,remote,50511.57,6,3,2023-09-06,Looking forward to new projects.
+119,Grace Jones,HR,Seattle,113491.37,2,3,2024-03-02,Looking forward to new projects.
+120,Bob Smith,Marketing,ATX,74878.97,31,3,05/07/2024,Happy with my role.
+121,  Frank Smith,hr,austin,63426.97,27,2,11/04/2024,
+6,Henry Smith,Human Resources,"Austin, TX",124144.45,0,6,01/22/2023,Would appreciate more remote flexibility.
+123,  Quinn Thomas,Marketing,SEA,141193.69,14,8,24-08-2023,Happy with my role.
+124,rachel Anderson,finance,SEA,124247.65,28,6,10/04/2023,
+125,Sam Wilson,FINANCE, Chicago,57205.2,5,8,05-08-2023,Happy with my role.
+126,Rachel Davis,FINANCE,New York,86574.61,4,,03-12-2024,
+127,Bob Jones,engineering,SEA,147724.99,24,7,22-02-2024,
+128,DIANA WILLIAMS,Mktg,austin,121425.1,,,22-08-2024,Would appreciate more remote flexibility.
+129,Henry Brown,finance,seattle,64790.45,2,7,04/07/2023,Great work environment.
+130,  Tina Anderson,Engineering,Seattle,122756.81,13,1,09/10/2023,
+131,  Sam Taylor,FINANCE,austin,"$76,685.27",14,5,19-09-2023,
+132,PAUL SMITH,H.R.,REMOTE,118112.38,11,8,10-04-2023,Great work environment.
+133,RACHEL MILLER,Human Resources, New York ,70500.14,28,2,2023-01-09,Looking forward to new projects.
+134,charlie Brown,finance, New York ,66933.35,0,4,2023-12-25,
+135,Maya Brown,FINANCE, Chicago,93956.3,23,8,26-02-2024,Would appreciate more remote flexibility.
+136,Leo Garcia,SALES,chicago,,26,4,13-04-2024,
+137,  Karen Jones,H.R.,Work From Home,93387.04,8,8,09/21/2023,Would appreciate more remote flexibility.
+138,Alice Miller,engineering,New York,,23,15,01-01-2024,Would appreciate more remote flexibility.
+139,Quinn Thomas,ENGINEERING,New York,97732.68,11,-1,07-04-2023,Would appreciate more remote flexibility.
+140,Maya Johnson,sales,"Austin, TX",104325.23,5,1,2023-07-13,Would appreciate more remote flexibility.
+141,Frank Johnson,Eng,NYC,104414.95,33,4,2023-12-19,Management could improve communication.
+5,Rachel Taylor,engineering,ATX,46644.1,25,5,08-10-2023,
+143,  Karen Miller,Human Resources,Remote,97583.25,,2,25-10-2024,
+144,Alice Anderson,H.R.,"Austin, TX",68954.53,11,7,10/10/2023,Looking forward to new projects.
+145,  Eve Miller,engineering,"Austin, TX","$78,251.21",,6,02/05/2024,Management could improve communication.
+146,Rachel Wilson,HR,Remote,"$82,161.00",20,1,07/13/2024,Looking forward to new projects.
+147,Sam Wilson,Fin,chicago,59578.21,4,5,05/16/2024,Happy with my role.
+148,Tina Taylor,Marketing,Seattle,76989.09,24,6,14-06-2024,
+7,KAREN TAYLOR,marketing,"Austin, TX",77989.24,18,8,2023-06-13,
+150,Diana Taylor,Human Resources,Austin,145065.48,28,2,11/16/2024,Looking forward to new projects.
+151,Eve Thomas,Mktg,Austin,92152.01,34,7,23-06-2023,Would appreciate more remote flexibility.
+152,Henry Anderson,engineering,New york,49651.15,25,6,02/01/2024,Management could improve communication.
+5,Rachel Taylor,finance,Work From Home,84282.55,32,1,2024-02-10,
+154,Eve Garcia,Eng,new york,99717.06,28,5,12/04/2023,
+155,Henry Wilson,engineering,CHI,103784.14,25,3,01-07-2024,Looking forward to new projects.
+156,Sam Miller,marketing,Seattle,74226.21,6,9,06/11/2023,Would appreciate more remote flexibility.
+157,Quinn Anderson,sales,SEA,"$86,217.12",29,5,2023-11-05,Great work environment.
+158,Frank Garcia,SALES, New York ,"$88,915.11",11,9,2023-09-06,Management could improve communication.
+159,Olivia Taylor,MARKETING,Austin,-95883.94,35,8,2024-11-16,Looking forward to new projects.
+160,Frank Johnson,Human Resources,seattle,48432.98,29,8,2023-10-04,Looking forward to new projects.
+161,Bob Thomas,Sales,Work From Home,55753.73,19,1,05/12/2024,Happy with my role.
+162,Grace Thomas,ENGINEERING, Chicago,"$62,428.07",13,10,09-09-2024,Would appreciate more remote flexibility.
+163,Jack Taylor,SALES,Austin,59236.84,3,3,05-04-2023,Happy with my role.
+164,Paul Williams,MARKETING,SEA,88493.63,5,5,2024-08-16,Would appreciate more remote flexibility.
+165,  Leo Johnson,Eng,Seattle,146653.5,20,6,2023-10-28,Looking forward to new projects.
+166,  Diana Anderson,Eng,New York,58044.9,0,7,05-12-2023,Happy with my role.
+7,Leo Jones,SALES,new york,50437.66,14,2,2023-01-07,Great work environment.
+168,Quinn Anderson,Finance,CHI,130796.45,8,4,02/24/2024,Great work environment.
+169,  Eve Miller,Sales,austin,52183.22,10,4,20-07-2023,Happy with my role.
+170,  Diana Williams,Mktg,NYC,146141.11,17,4,01-12-2024,
+171,Tina Wilson,Mktg,REMOTE,112847.83,15,2,21-08-2023,Great work environment.
+172,Karen Williams,eng,"Austin, TX",83368.31,4,,01/09/2023,Great work environment.
+173,Quinn Jones,eng,seattle,89475.4,34,5,03-05-2023,
+174,Karen Miller,Marketing,REMOTE,118360.97,3,7,20-08-2023,Great work environment.
+175,Alice Thomas,Marketing,new york,97123.36,16,3,12/04/2024,Happy with my role.
+176,Quinn Johnson,HR,"Austin, TX",92795.77,10,5,22-10-2023,Great work environment.
+177,Bob Smith,Fin,NYC,-85212.84,2,7,2023-06-08,
+178,Charlie Taylor,SALES,Austin,63831.16,25,15,05/11/2024,Would appreciate more remote flexibility.
+179,Grace Jones,ENGINEERING,austin,93712.3,12,9,2023-03-01,Great work environment.
+180,Alice Garcia,Fin,ATX,55914.65,31,3,02/02/2024,
+181,LEO DAVIS,Finance,SEA,"$55,035.59",4,1,11/05/2024,Management could improve communication.
+182,Karen Garcia,Sales,Seattle,"$144,073.24",6,3,2024-08-11,Great work environment.
+183,Olivia Jones,Sales,Chicago,61549.61,2,6,02/23/2023,
+184,Bob Anderson,Human Resources,Remote,144970.14,35,8,03/04/2023,Great work environment.
+185,Grace Miller,Marketing,CHI,"$141,330.00",12,8,2023-02-28,Great work environment.
+186,Frank Taylor,H.R., New York ,48095.64,13,5,08/05/2024,Looking forward to new projects.
+187,Jack Davis,Fin,Chicago,54210.76,33,9,26-07-2023,Happy with my role.
+188,Leo Taylor,Fin,seattle,63880.67,17,,12-09-2024,
+189,Henry Anderson,Marketing,new york,105447.67,11,10,2024-12-23,
+190,Sam Taylor,engineering,"Austin, TX",-101923.08,,,2023-01-17,Great work environment.
+191,  Eve Garcia,FINANCE,Chicago,47300.85,7,6,23-06-2023,Happy with my role.
+192,Jack Garcia,engineering,"Austin, TX",128143.47,11,9,22-04-2024,
+193,Jack Williams,HR,"Austin, TX",134329.48,11,10,11/19/2023,
+2,Charlie Brown,MARKETING,austin,111799.61,21,5,04/23/2023,Happy with my role.
+195,Bob Miller,Eng,new york,137877.96,34,8,03/15/2023,Looking forward to new projects.
+196,Alice Garcia,Engineering,Austin,80889.86,4,2,2024-10-20,Looking forward to new projects.
+197,Tina Miller,HR,CHI,-66582.8,34,5,04/04/2024,Happy with my role.
+198,Eve Smith,Fin,Seattle,75927.69,12,0,11/10/2023,Would appreciate more remote flexibility.
+199,Maya Davis,ENGINEERING,Austin,112395.97,24,8,2023-05-15,Management could improve communication.
+200,  Bob Williams,SALES,Remote,53999.27,14,7,2024-09-22,Would appreciate more remote flexibility.
